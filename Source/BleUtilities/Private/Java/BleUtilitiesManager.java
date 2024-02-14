@@ -8,7 +8,7 @@ import android.bluetooth.BluetoothDevice;
 import android.content.pm.PackageManager;
 import android.os.Handler;
 import android.os.Looper;
-import android.support.annotation.Keep;
+import androidx.annotation.Keep;
 
 import java.util.HashMap;
 import java.util.Iterator;

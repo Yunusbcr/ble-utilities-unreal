@@ -9,7 +9,7 @@ import android.bluetooth.BluetoothGattCallback;
 import android.bluetooth.BluetoothGattCharacteristic;
 import android.bluetooth.BluetoothGattDescriptor;
 import android.bluetooth.BluetoothGattService;
-import android.support.annotation.Keep;
+import androidx.annotation.Keep;
 import android.util.Log;
 
 import java.util.UUID;

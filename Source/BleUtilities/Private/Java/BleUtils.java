@@ -2,7 +2,7 @@
 
 package com.ninevastudios.androidbleunrealapi;
 
-import android.support.annotation.Keep;
+import androidx.annotation.Keep;
 
 import java.util.UUID;
 
